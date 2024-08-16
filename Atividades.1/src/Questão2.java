@@ -8,3 +8,4 @@ public class Questão2 {
         System.out.print(numero1 + numero2);
     }
 }
+
